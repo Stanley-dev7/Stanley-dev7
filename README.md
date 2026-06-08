@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Stanley 
 
-<!--
-**Stanley-dev7/Stanley-dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Go)
 
-Here are some ideas to get you started:
+I build backend systems using Go, focusing on APIs, clean architecture, and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## Skills
+- Go (Golang)
+- REST APIs
+- JSON / File Storage
+- Git & GitHub
+- Backend Architecture
+
+---
+
+##  Projects
+
+### Task Manager API (Go)
+A REST API with CRUD operations, clean architecture, and JSON file persistence.
+
+ https://github.com/Stanley-dev7/task-manager-api-go
+
+---
+
+## Currently Learning
+- Databases (PostgreSQL)
+- Authentication (JWT)
+- System Design basics
+
+---
+
+##  Goal
+To become a strong backend engineer and land my first internship/job.
+
 -->
