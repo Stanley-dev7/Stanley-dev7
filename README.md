@@ -4,7 +4,6 @@ Backend Developer (Go)
 
 I build backend systems using Go, focusing on APIs, clean architecture, and real-world projects.
 
----
 
 ## Skills
 - Go (Golang)
@@ -13,7 +12,6 @@ I build backend systems using Go, focusing on APIs, clean architecture, and real
 - Git & GitHub
 - Backend Architecture
 
----
 
 ##  Projects
 
@@ -22,14 +20,11 @@ A REST API with CRUD operations, clean architecture, and JSON file persistence.
 
  https://github.com/Stanley-dev7/task-manager-api-go
 
----
 
 ## Currently Learning
 - Databases (PostgreSQL)
 - Authentication (JWT)
 - System Design basics
-
----
 
 ##  Goal
 To become a strong backend engineer and land my first internship/job.
